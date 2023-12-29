@@ -970,7 +970,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"💛 Request More 💛", url=f"https://t.me/visualmovies1}")
+                InlineKeyboardButton(text=f"💛 Request More 💛", url=f"https://t.me/visualmovies1")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://telegram.me/sgrph")
             ],[
