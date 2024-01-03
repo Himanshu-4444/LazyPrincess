@@ -1468,7 +1468,7 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [ 
 	    InlineKeyboardButton(text="⚡ʜᴏᴡ To ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/visualmovies1'),
-	    InlineKeyboardButton("♻️ sᴇɴᴅ ᴀʟʟ ♻️", callback_data=f"files#{key}"),
+	    InlineKeyboardButton("♻️ sᴇɴᴅ ᴀʟ ♻️", callback_data=f"files#{key}"),
         ] 
     )
     if offset != "":
