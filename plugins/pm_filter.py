@@ -1469,6 +1469,7 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [ 
 	    InlineKeyboardButton(text="⚡ʜᴏᴡ to ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/visualmovies1'),
+	    InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ] 
     )
     if offset != "":
