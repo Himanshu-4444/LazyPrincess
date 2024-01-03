@@ -17,7 +17,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/visualmovies1>Visual</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/visualmovies1>Visual</a> & <a href=https://t.me/IllegalDeveloperBot>ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a> 🕷
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -28,7 +28,7 @@ Here is the help for my COMMANDS."""
 - Source - https://github.com/LazyDeveloperr/LazyPrincess  
 
 <b>DEVS:</b>
-- <a href=https://t.me/visualmovies1>Visual Movies</a>"""
+- <a href=https://t.me/visualmovies1>Visual Movies</a> & <a href=https://t.me/IllegalDeveloperBot>ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a> 🕷"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
