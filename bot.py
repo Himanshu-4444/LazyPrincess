@@ -109,8 +109,11 @@ async def Lazy_start():
     logging.info(LOG_STR)
     await idle()
 
-if name == 'main':
-
+if __name__ == '__main__':
+    #import os ( above )
+    port = int(os.environ.get('PORT'))
+    app = Bot()
+    app.run(host='0.0.0.0', port=port)
     
     try:
         loop.run_until_complete(Lazy_start())
