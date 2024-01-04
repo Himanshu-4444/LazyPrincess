@@ -110,6 +110,7 @@ async def Lazy_start():
     await idle()
 
 if __name__ == '__main__':
+    port = int(environ.get('PORT'))
     try:
         loop.run_until_complete(Lazy_start())
     except KeyboardInterrupt:
