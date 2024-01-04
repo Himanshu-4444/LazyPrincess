@@ -110,6 +110,10 @@ async def Lazy_start():
     await idle()
 
 if __name__ == '__main__':
+    #import os ( above )
+    port =int(os.environ.get('PORT', 5000))
+    app = Bot()
+    app.run(host='0.0.0.0', port=port)
     try:
         loop.run_until_complete(Lazy_start())
     except KeyboardInterrupt:
